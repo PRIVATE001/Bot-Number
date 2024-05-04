@@ -10,6 +10,6 @@ apt update && apt upgrade
 pkg install git
 pkg install php
 pkg update && pkg upgrade
-git clone https://github.com/PRIVATE001/Bot-Number-.git
-
+git clone https://github.com/PRIVATE001/Bot-Number.git
+cd Bot-Number 
 php 
